@@ -50,7 +50,7 @@ I am always keen to collaborate on innovative projects, discuss artificial intel
 
 * **GitHub**: [@Raksh575](https://github.com/Raksh575)
 * **LinkedIn**: [Rakshit Vijayavarthanan](https://www.linkedin.com)
-* **Portfolio**: [Explore the Live Experience](https://github.com/Raksh575/Portfolio)
+* **Portfolio**: [Explore the Live Experience](https://rakshitvijayavarthanan.vercel.app)
 
 ---
 *Created and maintained by Rakshit Vijayavarthanan.*
